@@ -1,3 +1,5 @@
+# The Complete 2022 Web Development Bootcamp
+
 # Day 1 
 Front-End Web Development
 
@@ -95,6 +97,3 @@ Authentication & Security
 
 # Day 33 
 React.js
-
-# Day 34 
-Optional Module_ Ask Angela Anything
