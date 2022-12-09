@@ -24,7 +24,8 @@ The Document Object Model (DOM)
 
 # Day 12
 Boss Level Challenge 1 - The Dicee Game
-Advanced Javascript and DOM Manipulation
+
+# Day 13Advanced Javascript and DOM Manipulation
 jQuery
 Boss Level Challenge 2 - The Simon Game
 The Unix Command Line
