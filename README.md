@@ -5,7 +5,6 @@ Front-End Web Development
 
 # Day 2 
 Introduction to HTML
--https://archive.org/web/
 
 # Day 3 
 Intermediate HTML
