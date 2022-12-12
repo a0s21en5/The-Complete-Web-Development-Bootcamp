@@ -1,0 +1,14 @@
+1 :
+https://gutenberg.org/files/1661/1661-h/1661-h.htm
+
+2 :
+https://devdocs.io/html/
+
+3 :
+https://archive.org/web/
+
+4 :
+https://unicode-table.com/en/
+
+5 : 
+https://developer.mozilla.org/en-US/
