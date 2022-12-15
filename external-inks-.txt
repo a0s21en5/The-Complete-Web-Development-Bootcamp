@@ -9,3 +9,16 @@ https://forms.gle/DNFNS8KgFdXtPvyY9
 
 Course-Resources
 https://www.appbrewery.co/p/web-development-course-resources
+
+
+Sean-Halpins-Website
+https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/
+
+Pesticide-Chrome-Extension
+https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+
+Files-Course-Resources-and-Links
+https://www.appbrewery.co/p/web-development-course-resources
+
+Course-Fixes-Report-an-Issue
+https://forms.gle/DNFNS8KgFdXtPvyY9
