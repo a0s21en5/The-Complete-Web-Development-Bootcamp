@@ -12,3 +12,6 @@ https://unicode-table.com/en/
 
 5 : 
 https://developer.mozilla.org/en-US/
+
+6 :
+https://colorhunt.co/
